@@ -1,0 +1,20 @@
+{
+  "name": "StoreLink",
+  "short_name": "StoreLink",
+  "description": "현장 진열 작업 관리",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "lang": "ko-KR",
+  "id": "./",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

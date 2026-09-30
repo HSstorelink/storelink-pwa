@@ -1,0 +1,10 @@
+{
+  "app": "StoreLink",
+  "build": "supabase-pwa-migration",
+  "backend": "supabase",
+  "apiVersion": 16,
+  "reportVersion": 8,
+  "pwaShell": "v5",
+  "builtAt": "2026-10-01T08:40:00+09:00",
+  "packageRevision": 2
+}
